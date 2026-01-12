@@ -21,7 +21,3 @@ The dataset contains information about AtliQ Hardwares’ consumer goods, includ
 - **Sales Improvement:** March and April sales improved significantly in 2021 compared to 2020.  
 - **Key Sales Channel:** The "Retailer" channel contributed 73.22% of gross sales.  
 
-## Repository Contents
-- SQL queries for answering ten business questions  
-- Analysis of sales, inventory, and product performance  
-- Insights and summaries derived from the dataset
