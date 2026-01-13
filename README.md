@@ -38,3 +38,20 @@ All data used is **sample or anonymized** and does not represent real company da
 P&L Reporting | Finance Reporting  
 
 ![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
+![](6.png)
+![](7.png)
+![](8.png)
+![](9.png)
+![](10.png)
+![](11.png)
+![](12.png)
+![](13.png)
+![](14.png)
+![](15.png)
+
+------------------------------------------
+![MY Portfolio](https://codebasics.io/portfolio/Prasad-Ganesh-Pawar) ![Linkedin](www.linkedin.com/in/prasadpawarpp)
