@@ -37,3 +37,4 @@ All data used is **sample or anonymized** and does not represent real company da
 **[Prasad Pawar]**  
 P&L Reporting | Finance Reporting  
 
+![](1.png)
