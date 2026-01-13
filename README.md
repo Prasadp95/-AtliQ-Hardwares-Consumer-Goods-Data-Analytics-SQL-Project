@@ -53,5 +53,4 @@ P&L Reporting | Finance Reporting
 ![](14.png)
 ![](15.png)
 
-------------------------------------------
-![MY Portfolio](https://codebasics.io/portfolio/Prasad-Ganesh-Pawar) ![Linkedin](www.linkedin.com/in/prasadpawarpp)
+
